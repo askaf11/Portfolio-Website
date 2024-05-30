@@ -1,0 +1,203 @@
+.icons-large {
+    font-size: 4vw;
+    color: #545454;
+    background-color: #00b899;
+    padding: 2.5%;
+    border-radius: 10px;
+    border: none;
+}
+
+@media screen and (max-width:576px) {
+
+    .icons-large {
+        font-size: 10vw;
+
+    }
+}
+
+/* ---------------------------------------- Services */
+.sec-services {
+    margin: 0% 5% 0% 5%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.sec-services-div {
+    margin: 2.5% 0%;
+    padding: 3%;
+    background-color: #fff;
+    border-radius: 10px;
+    width: 45.5%;
+}
+
+.sec-services-subdiv {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+@media screen and (max-width:576px) {
+
+    .sec-services-div {
+        margin: 5% 0%;
+        background-color: #fff;
+        border-radius: 10px;
+        padding: 5%;
+        width: 100%;
+
+    }
+
+    .sec-services-subdiv {
+        display: flex;
+        justify-content: space-around;
+    }
+}
+
+/* ---------------------------------------- Sec-contact */
+.sec-contact {
+    margin: 10% 5%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: #fff;
+    padding: 2.5% 2.5%;
+    border-radius: 10px;
+}
+
+.sec-contact div {
+    width: 20%;
+    padding: auto 0;
+    margin: auto;
+    text-align: center;
+
+}
+
+.call-button {
+    width: 30% !important;
+}
+
+.sec-contact-btn-fill {
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    background-color: #00b899;
+    padding: 1% 4%;
+    margin: auto 2.5%;
+    font-size: 1.5vw;
+    text-align: center;
+}
+
+.sec-contact-btn-outline {
+    border: 1px solid #00b899;
+    background-color: #fff;
+    border-radius: 5px;
+    color: #00b899;
+    padding: 1% 4%;
+    margin: auto 2.5%;
+    font-size: 1.5vw;
+    text-align: center;
+}
+
+@media screen and (max-width:576px) {
+    .sec-contact {
+        margin: 20% 5%;
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        background-color: #fff;
+        padding: 2.5% 2.5%;
+        border-radius: 10px;
+    }
+
+    .sec-contact div {
+        width: 100%;
+        padding: auto 0;
+        margin: 5% auto;
+        text-align: center;
+
+    }
+
+    .call-button {
+        width: 100% !important;
+    }
+
+}
+
+/* ---------------------------------------- About*/
+.sec-about {
+    margin: 0% 5% 10% 5%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+
+.sec-about-para {
+    background-color: #fff;
+    padding: 2.5%;
+    border-radius: 10px;
+    width: 50%;
+    text-align: justify;
+    line-height: 1.8;
+}
+
+.sec-about-para p {
+    width: 100% !important;
+    margin: auto 0 !important;
+}
+
+.sec-about-img {
+    width: 45%;
+    position: relative;
+    margin: auto 0;
+}
+
+.sec-about-img img {
+    width: 100%;
+    border-radius: 10px;
+    opacity: 0.8;
+
+}
+
+.sec-about-btn {
+    border: none;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: #fff;
+    border-radius: 5px;
+    color: #00b899;
+    padding: 1% 4%;
+    font-size: 1.5vw;
+    text-align: center;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+
+}
+
+@media screen and (max-width:576px) {
+    .sec-about-para {
+        background-color: #fff;
+        padding: 5%;
+        border-radius: 10px;
+        width: 100%;
+        text-align: justify;
+        line-height: 1.8;
+        margin: 0 0 5% 0;
+    }
+
+    .sec-about-img {
+        width: 100%;
+        position: relative;
+        margin: 0 0 10% 0;
+    }
+
+    .sec-about-btn {
+        position: absolute;
+        top: 50%;
+        left: 25%;
+    }
+}
