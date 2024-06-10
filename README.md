@@ -3,7 +3,7 @@
 Welcome to the Portfolio Website Development project! This repository contains the codebase for a fully responsive and visually appealing portfolio website built using HTML, CSS, and Bootstrap. The project is designed to showcase your personal projects, skills, and experiences, providing a professional online presence.
 <hr>
 
-![Alt text](https://askaf.in/assets/img/Web-Banner-1.png)
+![Alt text](https://askaf.in/assets/img/Web-Banner-5.png)
 
 <h2>Features</h2>
 
