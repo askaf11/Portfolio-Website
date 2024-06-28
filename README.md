@@ -1,6 +1,6 @@
 <h1>Portfolio Website</h1>
 
-<p align="justify">Welcome to the Portfolio Website Development project! This repository contains the codebase for a fully responsive and visually appealing portfolio website built using HTML, CSS, and Bootstrap. The project is designed to showcase your personal projects, skills, and experiences, providing a professional online presence.</p>
+<p align="justify">This is my personal portfolio website showcasing my skills, projects, and professional background. The website is designed to be a single-page application with smooth navigation and responsive design..</p>
 
 <a href="https://askaf11.github.io/Link-in-Bio/">![Portfolio Website Preview](assets/img/Web-Banner-5.webp)</a>
 
