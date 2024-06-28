@@ -1,34 +1,26 @@
-**Portfolio Website Development with HTML, CSS, and Bootstrap**
+<h1>Portfolio Website</h1>
 
-Welcome to the Portfolio Website Development project! This repository contains the codebase for a fully responsive and visually appealing portfolio website built using HTML, CSS, and Bootstrap. The project is designed to showcase your personal projects, skills, and experiences, providing a professional online presence.
-<hr>
+<p align="justify">Welcome to the Portfolio Website Development project! This repository contains the codebase for a fully responsive and visually appealing portfolio website built using HTML, CSS, and Bootstrap. The project is designed to showcase your personal projects, skills, and experiences, providing a professional online presence.</p>
 
-![Alt text](https://askaf.in/assets/img/Web-Banner-5.png)
+<a href="https://askaf11.github.io/Link-in-Bio/">![Portfolio Website Preview](assets/img/Web-Banner-5.webp)</a>
 
 <h2>Features</h2>
+<ul>
+  <li align="justify"><b>Responsive Design:</b> Ensures the website looks great on all devices, from desktops to mobile phones.</li>
+  <li align="justify"><b>Modern UI:</b> Utilizes Bootstrap for a sleek and clean design.</li>
+  <li align="justify"><b>Navigation Bar:</b> Smooth scrolling and easy-to-use navigation for a seamless user experience.</li>
+  <li align="justify"><b>About Section:</b> A concise section to introduce yourself and highlight your background.</li>
+  <li align="justify"><b>Projects Showcase:</b> Beautifully designed layout to display your projects with images and descriptions.</li>
+  <li align="justify"><b>Skills Section:</b> Clearly presented skills with progress bars or icons.</li>
+  <li align="justify"><b>Contact Information:</b> Contact details with a functional contact form for easy communication.</li>
+  <li align="justify"><b>Footer:</b> Contains social media links and additional information about you.</li>
+</ul>
 
-**Responsive Design:** Ensures the website looks great on all devices, from desktops to mobile phones.
-
-**Modern UI: Utilizes** Bootstrap for a sleek and clean design.
-
-**Navigation Bar:** Smooth scrolling and easy-to-use navigation for a seamless user experience.
-
-**About Section:** A concise section to introduce yourself and highlight your background.
-
-**Projects Showcase:** Beautifully designed layout to display your projects with images and descriptions.
-
-**Skills Section:** Clearly presented skills with progress bars or icons.
-
-**Contact Information:** Contact details with a functional contact form for easy communication.
-
-**Footer:** Contains social media links and additional information about you.
-<hr>
 <h2>Technologies Used</h2>
-
-**HTML5:** For structuring the content on the web.
-
-**CSS3:** For styling and enhancing the appearance of the website.
-
-**Bootstrap 5:** For responsive layout and pre-designed components.
-
-
+<ul>
+  <li align="justify"><b>HTML5:</b> For structuring the content on the web.</li>
+  <li align="justify"><b>CSS3:</b> For styling and enhancing the appearance of the website.</li>
+  <li align="justify"><b>Bootstrap 5:</b> For responsive layout and pre-designed components.</li>
+</ul>
+<br></br>
+<h4 align="center">Portfolio Website Project | Created by <a href="https://askaf.in/" target="_blank">Askaf</a></h4>
